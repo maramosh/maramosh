@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working at **Heinsohn**
 
-- 🌱 I’m currently learning **Flutter, VUE, Angular**
+- 🌱 I’m currently learning **VUE, Python**
 
-- 💬 Ask me about **React Native, React**
+- 💬 Ask me about **React Native, React, Nextjs, Nestjs**
 
 - 📫 How to reach me **ma.ramosh@uniandes.edu.co**
 
