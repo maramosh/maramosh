@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maramosh&label=Profile%20views&color=0e75b6&style=flat" alt="maramosh" /> </p>
 
-- 🔭 I’m currently working at **Heinsohn**
+- 🔭 I’m currently working at **NielsenIQ**
 
 - 🌱 I’m currently learning **VUE, Python**
 
